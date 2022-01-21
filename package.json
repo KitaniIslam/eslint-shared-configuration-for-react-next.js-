@@ -35,7 +35,8 @@
     "javascript",
     "lint",
     "nextjs",
-    "prettier"
+    "prettier",
+    "kitani"
   ],
   "author": "Kitani Islam",
   "license": "MIT",
