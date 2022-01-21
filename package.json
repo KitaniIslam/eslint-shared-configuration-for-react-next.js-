@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-kitani",
+  "name": "@kitani/eslint-config",
   "version": "1.0.0",
   "description": "Eslint + Prettier config for React (Next.js)",
   "main": "index.js",
