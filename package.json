@@ -1,6 +1,6 @@
 {
   "name": "@kitani/eslint-config",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Eslint + Prettier config for React (Next.js)",
   "main": "index.js",
   "files": [
@@ -12,7 +12,8 @@
   ],
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
-    "lint:fix": "eslint --fix"
+    "lint:fix": "eslint --fix",
+    "semantic-release": "semantic-release --branches main"
   },
   "peerDependencies": {
     "eslint": "^8.4.1",
@@ -42,10 +43,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KitaniIslam/eslint-config-kitani.git"
+    "url": "https://github.com/KitaniIslam/eslint-config-kitani.git"
   },
   "bugs": {
     "url": "https://github.com/KitaniIslam/eslint-config-kitani/issues"
   },
-  "homepage": "https://github.com/KitaniIslam/eslint-config-kitani#readme"
+  "homepage": "https://github.com/KitaniIslam/eslint-config-kitani#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
 }
