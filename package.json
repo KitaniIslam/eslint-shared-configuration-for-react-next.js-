@@ -13,7 +13,8 @@
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "eslint --fix",
-    "semantic-release": "semantic-release --branches main"
+    "semantic-release": "semantic-release --branches main",
+    "commit": "git-cz"
   },
   "peerDependencies": {
     "eslint": "^8.4.1",
@@ -50,6 +51,12 @@
   },
   "homepage": "https://github.com/KitaniIslam/eslint-config-kitani#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^19.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
