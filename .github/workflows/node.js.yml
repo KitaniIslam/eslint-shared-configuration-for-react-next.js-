@@ -29,4 +29,3 @@ jobs:
       - run: mkdir -p /home/runner/.npm
         continue-on-error: true
       - run: npm ci
-      - run: npm test
