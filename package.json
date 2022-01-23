@@ -16,6 +16,9 @@
     "semantic-release": "semantic-release --branches main",
     "commit": "git-cz"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": "^8.4.1",
     "eslint-config-airbnb": "^19.0.4",
