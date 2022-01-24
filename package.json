@@ -47,12 +47,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KitaniIslam/eslint-config-kitani.git"
+    "url": "https://github.com/KitaniIslam/eslint-shared-configuration-for-react-next.js-.git"
   },
   "bugs": {
-    "url": "https://github.com/KitaniIslam/eslint-config-kitani/issues"
+    "url": "https://github.com/KitaniIslam/eslint-shared-configuration-for-react-next.js-.git/issues"
   },
-  "homepage": "https://github.com/KitaniIslam/eslint-config-kitani#readme",
+  "homepage": "https://github.com/KitaniIslam/eslint-shared-configuration-for-react-next.js-.git#readme",
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^19.0.2"
