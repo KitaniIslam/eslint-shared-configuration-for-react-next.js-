@@ -1,6 +1,6 @@
 # ESLint + Prettier Config for React (Next.js)
 
-`@kitani/eslint-config`
+`@kitani/eslint-config `
 
 > Shareable config for [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), aimed primarily to be used in [Next.js](https://nextjs.org) React projects.
 
