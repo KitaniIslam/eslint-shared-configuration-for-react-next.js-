@@ -177,4 +177,4 @@ Please be aware, however, that this workaround also **disables the check for `hr
 
 ## License
 
-Licensed under MIT License.
+[MIT License](https://github.com/KitaniIslam/eslint-shared-configuration-for-react-next.js-/blob/main/LICENSE).
